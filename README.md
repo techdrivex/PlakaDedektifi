@@ -1,5 +1,7 @@
 # 🚓 PlakaDedektifi
 
+![PlakaDedektifi Logo](plakadedektifi_logo.png)
+
 PlakaDedektifi, Android cihazlar için geliştirilen açık kaynaklı bir uygulamadır. Uygulama, kamera görüntüsünü kullanarak trafikteki yasa dışı sürüş davranışlarını (örneğin ters şerit, ani fren, çakar kullanımı, uygunsuz sollama) algılar, olay anının fotoğrafını çeker, araç plakasını tanır ve yetkililere otomatik olarak bildirir.
 
 ---
